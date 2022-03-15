@@ -1,4 +1,4 @@
-[![banner](./README/ElintonEv.png)](https://github.com/elintonev)
+[![banner](ElintonEv.png)](https://github.com/elintonev)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
